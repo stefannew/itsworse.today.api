@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-08-09",
+    "sourceType": "template",
+    "text": "Amazon's biodiversity disappears forever",
+    "sourceUrl": "https://www.worldwildlife.org/places/amazon",
+    "sourceName": "World Wildlife Fund",
+    "category": "extinction"
+  },
+  {
     "date": "2026-08-08",
     "sourceType": "web",
     "text": "West Antarctic Ice Sheet collapse now irreversible",
