@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-09-06",
+    "sourceType": "web",
+    "text": "The northern spotted owl is extinct in Canada",
+    "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH82aA4IpcDbOPXr64YmZXnMS5yjpGYrzMFtf82mKu6Az0c7Yoini7aY4IMHNe8IU464Gtu-3l_wZhBILTjhMhax0XUtiZa8nkd_aUIPnJWwt9zT6_8sj304fzHrAikjnvGrXZjElJUi_anhIINYK79o8o2Owb-r2TIxEI=",
+    "sourceName": "The Tyee",
+    "category": "extinction"
+  },
+  {
     "date": "2026-09-05",
     "sourceType": "web",
     "text": "GPT-6 Astra autonomously builds functional zero-day cyber exploits",
