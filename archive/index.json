@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-09-26",
+    "sourceType": "template",
+    "text": "Addiction rates are soaring now",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/addiction",
+    "sourceName": "World Health Organization",
+    "category": "health"
+  },
+  {
     "date": "2026-09-25",
     "sourceType": "web",
     "text": "Gaza's economy: worst collapse ever recorded",
